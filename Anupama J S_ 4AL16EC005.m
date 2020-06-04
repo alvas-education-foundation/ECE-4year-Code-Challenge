@@ -1,6 +1,6 @@
 A = xlsread('a01_3.csv'); 
 samples = 0:length(A)-1;       
-Fs = 250;             
+Fs = 250;             % The sampling freq of provided signal was 100 Hz. The signal has two columns, that need to be understand
 t = samples/Fs;       
 
 figure
