@@ -3,7 +3,7 @@ default=input('Press 1 if u want default ecg signal else press 2:\n');
 if(default==1)
       li=30/72;  
     
-      a_pwav=0.25;
+      a_pwav=0.25; % your code does not meet the challenge as the code does not read the signal provided, hence code will be disqualified.
       d_pwav=0.09;
       t_pwav=0.16;  
      	
