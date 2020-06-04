@@ -4,7 +4,7 @@ Fs = 250;
 t = samples/Fs;       
 
 figure
-plot(t,A); 
+plot(t,A);   % The sampling freq of provided signal was 100 Hz. The signal has two columns, that need to be understand.
 title('ECG Signal');
 xlabel('Time (s)');
 ylabel('Voltage (V)');
