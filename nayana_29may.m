@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head> % Disquialided
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
   <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
@@ -17,7 +17,7 @@
     <link crossorigin="anonymous" media="all" integrity="sha512-iOE2yI4flq0MgwIhgk4tgog2A3LuuWqOM/G7Akx732FT1lPsGaGiwFhIjrPSs/N0ck5MfRAkWf+OQyVoGsyVGQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-88e136c88e1f96ad0c830221824e2d82.css" />
     
     
-    
+    % 
     
 
 
