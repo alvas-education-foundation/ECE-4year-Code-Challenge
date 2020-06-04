@@ -1,7 +1,7 @@
 A = xlsread('a01_3.csv'); 
 samples = 0:length(A)-1;       
 Fs = 250;             
-t = samples/Fs;       
+t = samples/Fs;       % the sampling freq of provided signal was 100 Hz. Your code has bugs, rework on it.
 
 figure
 plot(t,A); 
