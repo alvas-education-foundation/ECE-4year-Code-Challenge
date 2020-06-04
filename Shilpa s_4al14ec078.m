@@ -4,7 +4,7 @@ if(default==1)
       li=30/72;  
     
       a_pwav=0.25;
-      d_pwav=0.09;
+      d_pwav=0.09; % your code does not read the the signal provided, hence code is disqualified.
       t_pwav=0.16;  
      	
       a_qwav=0.025;
