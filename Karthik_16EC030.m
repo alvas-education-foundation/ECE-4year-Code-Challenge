@@ -4,8 +4,8 @@ samples = 0:length(A)-1;         % Sample Indices Vector
 Fs = 250;             % Sampling Frequency (Hz)
 t = samples/Fs;         % Time Vector (seconds)
 % plotting ecg data wrt time
-figure
-plot(t,A); 
+figure  
+plot(t,A);    % The sampling freq of provided signal was 100 Hz. The signal has two columns, that need to be understand.
 title('ECG Signal');
 xlabel('Time (s)');
 ylabel('Voltage (V)');
